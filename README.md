@@ -52,6 +52,7 @@ And run
 * Tests to put in place?
 	* Request fail and request status test and logging
 	* Unique (Primary key) test to make sure when adding the raw data it doesn't duplicate primary keys
-	* Not null test for columns like login_username and password* Data integrity and anomalies test
+	* Not null test for columns like login_username and password
+	* Data integrity and anomalies test
 
 
