@@ -37,7 +37,7 @@ And run
 
 ## Files included 
 * run.sh - runs requirments.txt, create a data folder to store csv files and get_data_and_transform_script.py
-	  * Sets up environment and create csv files 
+	* Sets up environment and create csv files 
   
 * get_data_and_transform_script.py
 	  * collect data from [API Endpoint](https://randomuser.me/api/?results=500), create table and save them as csv files
