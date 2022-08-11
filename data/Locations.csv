@@ -1,0 +1,501 @@
+﻿login_uuid,location_street_number,location_street_name,location_city,location_state,location_country,location_post_code,location_coordinates_latitude,location_coordinates_longitude,location_timezone_offset,location_timezone_description
+56f902a3-8483-46df-830f-2c6958d550f5,424,Dublin Road,Midleton,Dún Laoghaire–Rathdown,Ireland,,-1.5979,66.1792,+3:30,Tehran
+93e4f6a6-1de3-4ff5-b344-692b3de40a8b,3093,Kobilici,Novgorod-Siverskiy,Donecka,Ukraine,,52.8604,-68.3611,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+84a9b686-a2f1-43c0-b81b-e24d984e579c,3302,Lokesvej,Oure,Sjælland,Denmark,,-68.2596,-112.3377,+9:30,"Adelaide, Darwin"
+1a042dc2-908d-4d1f-a441-6852e2881ac1,895,H.C. Lumbyes Vej,Agerbæk,Nordjylland,Denmark,,-83.4163,17.0614,+7:00,"Bangkok, Hanoi, Jakarta"
+546bfc14-0833-4182-be5c-5104b7dcfe7b,8583,Cashel Street,Taupo,Tasman,New Zealand,,86.2009,109.4570,-11:00,"Midway Island, Samoa"
+dfcf17f0-0565-48c6-a00d-1bc01de826c2,88,Pecan Acres Ln,Bathurst,Victoria,Australia,,-42.2441,-48.7841,-1:00,"Azores, Cape Verde Islands"
+eff0dd36-6c56-457a-9f9a-60a77203c260,4552,Frederick Ave,Lumsden,Newfoundland and Labrador,Canada,,60.0158,93.4634,+4:30,Kabul
+ceca4545-1697-4183-b21b-82ae35962c5e,5503,Beethovenstraße,Geyer,Niedersachsen,Germany,,20.6115,-139.1418,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+6868127c-c7d1-40cc-a778-563e560c4fa6,1858,Grange Road,Passage West,Fingal,Ireland,,24.1340,-53.7049,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+cabc6c2a-0d71-468e-a3c7-08260ee69ebc,4088,Brønnveien,Sandbumoen,Telemark,Norway,,62.6125,-177.0235,-12:00,"Eniwetok, Kwajalein"
+48cc3527-46a9-42ce-80e0-7516a7f866ad,7698,Rue de L'Abbé-Soulange-Bodin,Vitry-sur-Seine,Lot-et-Garonne,France,,2.6602,-41.4408,+2:00,"Kaliningrad, South Africa"
+7c792216-bd25-4f39-a305-b1e68a382e9d,8819,Josifa Pančića,Titel,Braničevo,Serbia,,-25.7799,-83.3408,-2:00,Mid-Atlantic
+4dae0bf2-23cd-4e33-8dbf-421ae8b8e4fd,9446,Fairview St,Traralgon,Australian Capital Territory,Australia,,-26.1945,22.6184,+9:30,"Adelaide, Darwin"
+49a9d5a0-e8fb-411b-9a88-3a7ae883720b,9121,Henry Street,Carrick-on-Suir,Wexford,Ireland,,60.6106,-100.6368,+3:30,Tehran
+d27177e8-bca6-4d43-a56a-a53e0e2ef672,3,Rue Louis-Blanqui,Avignon,Tarn-et-Garonne,France,,-17.8837,-143.3467,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+1a343a7e-400a-432e-8069-37870e5d61aa,7591,Rua Alagoas ,Rondonópolis,Ceará,Brazil,,-83.8628,-36.1462,-10:00,Hawaii
+4279feae-56c1-402a-97b1-4f6204b3571c,3502,Wiesenweg,Bobingen,Schleswig-Holstein,Germany,,82.6731,33.0655,-6:00,"Central Time (US & Canada), Mexico City"
+fe1feb68-a354-411d-823b-b0078148c66a,2991,Frederick Ave,Belmont,Alberta,Canada,,-42.9032,10.7330,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+6b41813b-c3e2-481a-967d-09cab7d362c6,5170,Periférico Norte Beltrán,Huayacocotla,Veracruz,Mexico,,-8.0757,57.3206,-3:30,Newfoundland
+4bd23b4f-f64e-4680-93fb-9a7fb27bb916,98,Avenue des Ternes,Jegenstorf,Valais,Switzerland,,2.3172,-144.2343,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+6e74924e-235c-4bb8-9606-1acafec26656,8660,Finlandsvej,Frederiksberg,Sjælland,Denmark,,-82.5551,-136.3008,+2:00,"Kaliningrad, South Africa"
+14590feb-4350-4cb1-bea8-6a7865e28c9f,712,Glazeniersgilde,Langeweg,Gelderland,Netherlands,,11.0077,-112.6513,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+c2cd6396-8126-4265-84bc-61b1dba17ba6,731,Bastinglaan,Schraard,Groningen,Netherlands,,17.2275,-27.0356,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+3aa05e5d-26c6-4e5d-9ecb-b51fd529b313,6688,Park Avenue,Tramore,Cork,Ireland,,71.2492,-162.4387,+10:00,"Eastern Australia, Guam, Vladivostok"
+a2ad9ebd-6985-4476-83fb-74167d0ff5ae,3524,Victoria Ave,Cochrane,Nunavut,Canada,,61.2408,-81.8829,-7:00,Mountain Time (US & Canada)
+e09e0237-4ac8-46d6-9c09-ecc512c3de24,1487,Talak Göktepe Cd,Ardahan,Niğde,Turkey,,80.0450,-85.3201,+6:00,"Almaty, Dhaka, Colombo"
+00b85a98-d02d-4883-ba9e-42fce5b01dc4,8560,میدان رسالت,دزفول,تهران,Iran,,55.9294,-156.2745,-1:00,"Azores, Cape Verde Islands"
+7930e756-6dea-43e4-b76c-3b278bfc62f3,582,Saltikova-Shchedrina,Novoukrayinka,Ternopilska,Ukraine,,-43.1952,177.9463,+5:45,Kathmandu
+e2eb9a55-5cc9-4256-86b8-37e278317800,682,Kushimoto Sk,Batman,Osmaniye,Turkey,,-3.5776,-179.9110,+4:30,Kabul
+4da99103-7d61-445c-9c1c-32bcb9deec97,881,London Road,Birmingham,Surrey,United Kingdom,,71.2731,125.8251,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+11bdc8d4-ea9a-4a0d-af8b-d9ac97c803f4,1059,Mechelininkatu,Lappajärvi,Tavastia Proper,Finland,,68.2269,70.9315,-10:00,Hawaii
+73b11c35-f1e9-44ad-a904-fdc869a92d66,644,Tripolia Bazar,Mysore,Goa,India,,-49.1956,-144.0567,-1:00,"Azores, Cape Verde Islands"
+11b3ed93-a4ef-42e7-9dcf-9a47009835db,8353,Westheimer Rd,Busselton,Australian Capital Territory,Australia,,69.3198,126.7020,+2:00,"Kaliningrad, South Africa"
+60d701b2-ab49-47f4-aec7-46c5661c7f2f,3080,Tunalı Hilmi Cd,Giresun,Tekirdağ,Turkey,,-80.4249,-105.5238,+10:00,"Eastern Australia, Guam, Vladivostok"
+405bd807-573c-4d52-a3bd-df4a9c0cdca2,2537,Vatan Cd,Osmaniye,Uşak,Turkey,,-4.8890,-15.2609,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+ecfca5f2-48c5-4ec7-aabe-3e7af366c240,6323,Sunset St,Lansing,Hawaii,United States,,82.4641,172.0595,+6:00,"Almaty, Dhaka, Colombo"
+96a41f33-4780-4b61-8257-0f853126a490,4152,Hoge Hof,Broeksterwald,Flevoland,Netherlands,,6.6164,154.3587,+9:30,"Adelaide, Darwin"
+d1de8710-4ca6-4ed6-91b3-de55344559db,2691,9th St,Souris,Alberta,Canada,,-80.8213,-27.2536,+3:30,Tehran
+55d46596-c3f4-416b-8d23-c12773befbed,2801,Bridge Street,Napier,Southland,New Zealand,,42.1282,-55.7589,+2:00,"Kaliningrad, South Africa"
+fa0b97c6-ada6-4480-80e0-fb39a329a197,206,Poststraße,Bernkastel-Kues,Saarland,Germany,,-66.4410,-68.3144,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+fff686e7-a221-4a51-8ecc-af776703499c,2120,Pastera,Verhivceve,Sumska,Ukraine,,-35.2950,100.3539,-11:00,"Midway Island, Samoa"
+3d7d68e9-7897-4b8b-a763-bb2fb0f8b11c,6411,Bentsegata,Berkåk,Møre og Romsdal,Norway,,-61.1369,157.5627,-12:00,"Eniwetok, Kwajalein"
+ad2c8f0c-9d9b-4c90-97f6-dcbd90b5da2c,7187,Fatih Sultan Mehmet Cd,Muğla,Bingöl,Turkey,,-25.2468,-154.9078,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+3f9a9144-d44b-44e3-b7e4-615c7021fa9e,7895,Ljubiše Veličkovića,Nova Varoš,North Banat,Serbia,,68.0963,132.1637,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+af7fbe10-55f8-401c-8869-a0bab79cfd21,628,Bağdat Cd,Tekirdağ,Kırklareli,Turkey,,-68.2458,179.7648,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+55241357-35e3-4902-9cad-fa4fc4fed965,1341,Calle Mota,Almería,Islas Baleares,Spain,,23.3935,-140.6184,+3:30,Tehran
+8f5937a3-f546-4bf2-9b17-bf00eb0dc4f8,8459,London Road,City of London,Herefordshire,United Kingdom,,9.3828,51.2022,-10:00,Hawaii
+ebcf0bf3-a68d-486a-a792-056a4e22755b,5014,Friedhofstraße,Freren,Hamburg,Germany,,17.0608,23.9781,-10:00,Hawaii
+d59d260b-57e4-476c-a4ea-8c072af01321,9051,Avenida de La Albufera,Logroño,Cantabria,Spain,,35.1541,-96.5022,+11:00,"Magadan, Solomon Islands, New Caledonia"
+baa80de4-c5aa-45bd-bc38-f2e9cca06db6,120,Hasmanlanden,Oirsbeek,Zuid-Holland,Netherlands,,61.0173,120.1742,-9:00,Alaska
+6ce155b2-360f-40f2-bdcf-342e473e76a4,7175,Barvinkova,Ananyiv,Volinska,Ukraine,,-48.1218,-123.2561,+7:00,"Bangkok, Hanoi, Jakarta"
+bef117c0-c9c2-4e13-b261-45e36b92e25c,493,W 6th St,Townsville,South Australia,Australia,,-79.7437,-179.4509,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+22c3987c-c1d1-437a-93ef-ea59633275ea,4571,Rue du Stade,Mägenwil,Neuchâtel,Switzerland,,63.5300,-74.6148,+7:00,"Bangkok, Hanoi, Jakarta"
+eda437ad-f64e-4e6b-9047-8547d4837151,4011,Lillebergsvingen,Midtbygda,Telemark,Norway,,51.4383,-75.0697,-2:00,Mid-Atlantic
+8abdef39-c404-47de-bbc3-d1f4ff94a8df,29,استاد نجات‌اللهی,شیراز,اردبیل,Iran,,64.9858,164.0769,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+6d4dcf09-4023-4e66-a890-ab19ccb00d38,8390,Abanoz Sk,Giresun,Kastamonu,Turkey,,-30.4846,129.4497,+9:30,"Adelaide, Darwin"
+12e65965-f64d-4bdb-86cf-f28fa4793d03,2019,Avenue de la Libération,L'Abbaye,Glarus,Switzerland,,-54.8720,-74.7353,+6:00,"Almaty, Dhaka, Colombo"
+911f7c95-f200-4e67-822a-a5ed4560862a,8688,Åsaveien,Forsøl,Sogn og Fjordane,Norway,,83.7098,155.4506,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+5b8a39fb-50e6-4909-b100-f49838079d84,4624,Broekhovenlaan,Winneweer,Overijssel,Netherlands,,21.4066,37.7866,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+39ccc0f2-9dd7-4ed8-857d-91166d8034d0,2045,Gartenweg,Sundern (Sauerland),Niedersachsen,Germany,,26.3495,-37.7170,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+67dffd55-32dc-45d3-bb98-5ae699b88eeb,4878,Fairview St,Gladstone,Western Australia,Australia,,62.9691,-6.0092,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+fa47af25-a61c-4e97-a3ae-e80b73063aba,6157,Rua Santa Luzia ,São Paulo,Bahia,Brazil,,-16.6909,-156.8347,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+3c2d60dc-2ed0-4297-b660-3b48df30f00d,7070,Photinia Ave,Dubbo,Queensland,Australia,,74.5535,-51.7076,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+29e5f98d-790f-4c3f-babd-af7fc76ba7dc,1066,Photinia Ave,Waterbury,Colorado,United States,,-51.2036,-67.7776,-8:00,Pacific Time (US & Canada)
+67badf48-be4a-45bb-84d2-70c219635542,609,Dniprostalivska,Kramatorsk,Luganska,Ukraine,,-43.6108,160.3148,+9:30,"Adelaide, Darwin"
+1e484020-57f5-4dcd-82ef-75be4ffcae4c,8141,Crockett St,Sydney,Queensland,Australia,,-27.1895,-124.0911,-3:00,"Brazil, Buenos Aires, Georgetown"
+23328b75-ffaf-4c58-89f5-37161077a6cf,3219,Santhekatte,Bareilly,Himachal Pradesh,India,,-80.2067,77.3056,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+0cac7347-72e7-4ffd-a454-2e23b93b349d,1389,فلاحی,اراک,خوزستان,Iran,,-84.5089,-132.8052,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+b3a817db-cfec-4982-9366-294c947aaf21,6768,Patrick Street,Ballina,Longford,Ireland,,-71.3162,165.3922,-3:30,Newfoundland
+6b12cd96-cf48-4f1f-ada5-561766e91d37,7074,Feodori Pushinoyi,Lviv,Donecka,Ukraine,,-58.9304,153.5292,-3:00,"Brazil, Buenos Aires, Georgetown"
+d8cf04d0-8def-4a19-b9bd-12a73afad246,2972,Calle de Téllez,Torrevieja,Cantabria,Spain,,-5.9023,61.0054,-1:00,"Azores, Cape Verde Islands"
+41c06e1e-b902-4043-b30a-4c46593473e5,3475,Sisikveien,Risør,Nordland,Norway,,-55.6875,30.9253,-12:00,"Eniwetok, Kwajalein"
+a916ea49-d115-4a25-9fd5-a05524cae1b9,3990,Rue Louis-Garrand,Rickenbach (Lu),Schaffhausen,Switzerland,,38.6903,63.5301,+10:00,"Eastern Australia, Guam, Vladivostok"
+9073af52-659f-4e6e-bcfe-1f8417a64c04,2574,Robinson Rd,Albury,New South Wales,Australia,,84.4631,90.6751,-8:00,Pacific Time (US & Canada)
+a2f752f7-e500-4041-851a-ac1af1816539,1285,شهید بهشتی,قم,سمنان,Iran,,-85.6391,16.2529,+3:30,Tehran
+580c1b55-c1d0-42b1-90b4-eb3827441b35,2070,Mill Road,Monaghan,Meath,Ireland,,-77.8722,-179.7392,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+d2c51e5d-25e2-48a0-ba2b-cf5adaeccf42,2662,E North St,Redding,Maryland,United States,,52.5866,-1.7008,+6:00,"Almaty, Dhaka, Colombo"
+ff0b87eb-91b2-4a62-997c-d5030a006a5b,8496,Følfodvej,Nørrebro,Nordjylland,Denmark,,5.3996,39.3473,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+2f148b2b-1b6e-4b86-8a13-231558eb17dd,4206,North Street,Tullow,Kerry,Ireland,,-51.5463,-60.8642,+6:00,"Almaty, Dhaka, Colombo"
+fdabc92e-a030-4689-8115-eed8acdd139b,1225,Pali Hill,Ranchi,Goa,India,,50.1338,-134.4303,+3:30,Tehran
+d2c9bc75-61db-457f-9c78-68b84b069d13,5515,Androvačka,Boljevac,Šumadija,Serbia,,-30.7622,-124.1589,+9:30,"Adelaide, Darwin"
+c42dfeea-328e-4678-908e-0f20d71965ef,9160,Abanoz Sk,Eskişehir,Sinop,Turkey,,22.0178,137.1020,-7:00,Mountain Time (US & Canada)
+dd1db701-3a97-41e1-aa29-c12edec949d3,3253,Maunganui Road,Porirua,Nelson,New Zealand,,-51.8020,-92.3263,-9:00,Alaska
+3fa57895-c568-4792-91b4-ea87c21f3d0b,9860,Lincoln Road,Invercargill,West Coast,New Zealand,,-12.7840,69.4351,+3:30,Tehran
+27c61be9-e64f-4146-8179-f19307c751e1,9745,Coaker's Walk,Anand,Uttarakhand,India,,32.4073,163.6151,-2:00,Mid-Atlantic
+37be97c7-aecd-4537-801c-8b9c8eae807f,5471,Avondale Ave,Toowoomba,New South Wales,Australia,,62.2645,-49.2162,-12:00,"Eniwetok, Kwajalein"
+359e5462-4327-4448-b37f-89981cd74dbf,5353,W Gray St,Austin,Idaho,United States,,57.1835,-162.6599,-12:00,"Eniwetok, Kwajalein"
+830698f1-6764-4992-b84d-39109c1cfa66,4294,Opawa Road,Napier,Waikato,New Zealand,,69.1429,-155.7291,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+c72c0d36-41e7-4938-9067-8332c0341992,3528,Harald Halvorsens vei,Liknes,Nordland,Norway,,24.6745,72.7527,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+b6b8c193-a087-4df7-8fc2-4032948c757d,9990,Avenue du Château,Iffwil,Zürich,Switzerland,,48.9968,-132.4437,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+082055f3-5203-4e56-9e5a-3c1fd18545ba,7404,Rue Chazière,Montpellier,Mayotte,France,,44.5058,-5.4442,+2:00,"Kaliningrad, South Africa"
+357f1180-d292-45f7-98ea-f6893436fbfc,334,Avenida de América,Alcalá de Henares,Ceuta,Spain,,89.3817,-129.2173,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+46d2fe17-3c48-48db-894d-5cce153f05d0,2879,Ahornvej,Sandved,Syddanmark,Denmark,,-38.4951,-171.3525,-12:00,"Eniwetok, Kwajalein"
+240c9c18-6433-4418-93a6-1510aaf3bbd1,4570,Rua Pernambuco ,Sobral,Roraima,Brazil,,-50.2569,-146.5013,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+83abb8e7-66ca-4c45-9932-1217ffdbe53e,1978,Kristinelundveien,Fauske,Description,Norway,,-84.9458,30.9026,-10:00,Hawaii
+c51a7b3b-8409-4a24-b7e0-3ddb001313d4,3674,Dr Dušana Kašića,Ljubovija,Pirot,Serbia,,-61.4616,129.2959,+11:00,"Magadan, Solomon Islands, New Caledonia"
+e295c774-ed89-42ff-a48e-e638340fbafa,8533,Callejón Sur Pulido,Tambaca,Baja California,Mexico,,7.2739,35.1225,+10:00,"Eastern Australia, Guam, Vladivostok"
+d87df03b-03ca-49c9-9036-611aef4ec99e,6113,Trakt Glinyanskiy,Kobelyaki,Lvivska,Ukraine,,-81.1349,129.2248,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+85c58537-0cf1-421b-9c7d-87de406bd099,6577,Station Road,Clane,Carlow,Ireland,,30.2548,148.9588,-6:00,"Central Time (US & Canada), Mexico City"
+53df77c6-1d67-4423-8929-edadf7076330,4839,Anafartalar Cd,Balıkesir,Isparta,Turkey,,5.4906,130.5248,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+b85688c1-ecde-4107-aa68-24a64f07fed6,6693,Country Club Rd,Geelong,Western Australia,Australia,,45.8075,-98.5959,-7:00,Mountain Time (US & Canada)
+535ac2cf-92ce-4801-91b0-52f4f6a6a286,2482,Diagonal Veracruz de Ignacio de la Llave,Hidalgo,Nuevo Leon,Mexico,,-67.2841,155.7020,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+67a85a14-7428-4ee1-b7fb-d1b5ed657216,7370,Rua Mato Grosso ,Aracaju,Ceará,Brazil,,-68.6165,15.7399,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+13c98d51-cd8e-479c-9c4b-d298e651328f,3935,Necatibey Cd,Kayseri,Uşak,Turkey,,-14.9632,30.8764,-3:30,Newfoundland
+88c30750-2b71-44bb-ab21-afba0d7fdfbd,4384,Calle de Ferraz,San Sebastián,Cantabria,Spain,,-58.8326,-14.1746,-3:30,Newfoundland
+879a3648-fc48-4d03-acba-1668df3b5d9f,7154,Blauwe Weg,Nijetrijne,Drenthe,Netherlands,,-1.4876,97.7023,-9:00,Alaska
+961fb667-46df-4e90-8fa6-212dab1beb3e,9272,N Stelling Rd,Hobart,Queensland,Australia,,79.0304,-177.7348,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+73fb6aa1-e808-4b34-a652-874eb05022ca,4000,College Ave,Flatrock,Québec,Canada,,78.2534,-88.1881,-9:00,Alaska
+16fca5ba-fc49-4790-9a56-58c0228e2356,7294,Manglebergveien,Holme,Nordland,Norway,,-84.1994,54.8759,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+35d8f27d-8228-4756-99a1-5727aec5c986,361,میدان آزادی,رشت,مرکزی,Iran,,-41.8021,-81.0335,-7:00,Mountain Time (US & Canada)
+714e8330-0f96-4d77-86f9-05e09bace106,5139,Richmond Park,Carrickmacross,Limerick,Ireland,,-33.5593,108.4888,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+a594a10d-f770-4d2f-ab0a-c24f75bd81e8,913,West Street,Cardiff,Wiltshire,United Kingdom,,-43.6531,1.0062,+4:30,Kabul
+39ae22d0-2c09-4e4f-9dce-76b3fe0685c5,8993,Gruzinskiy provulok,Apostolove,Dnipropetrovska,Ukraine,,-2.0938,11.1892,+4:30,Kabul
+fd01141f-229e-403e-8f2a-07484b9572e2,9440,Schwensens gate,Mandal,Møre og Romsdal,Norway,,42.2525,-58.1580,+2:00,"Kaliningrad, South Africa"
+8eefdf80-126e-4770-acb3-4e238acbc11b,1279,Myllypuronkatu,Rautavaara,Lapland,Finland,,-10.3536,-99.3355,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+2d3ccf02-1219-4f1a-9e81-76c63504d6c6,4236,Aleksanterinkatu,Ylitornio,Åland,Finland,,-47.2600,-96.0760,-2:00,Mid-Atlantic
+24b42b58-a0b4-465d-96ba-b03b7e8ea639,5861,Place des 44 Enfants D'Izieu,Dijon,La Réunion,France,,-26.5623,68.0674,-1:00,"Azores, Cape Verde Islands"
+477752db-3971-481c-a491-2de1346c90ec,3771,Politehnichna,Primorsk,Hersonska,Ukraine,,74.4602,-158.0745,+5:45,Kathmandu
+ed00c25d-2c7c-4d0b-9f5d-74b84f3f3580,4426,Quai Chauveau,Saint-Léonard,Schwyz,Switzerland,,-30.2046,78.8683,-10:00,Hawaii
+6d17fdcc-03d0-458e-a15a-d58fc3e45d16,5086,Sitabuldi Main Rd,Ambarnath,Goa,India,,50.9079,62.2705,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+4190d614-a647-4146-b601-99a6c88db737,8764,Avenida del Planetario,Toledo,País Vasco,Spain,,27.1986,164.4350,+10:00,"Eastern Australia, Guam, Vladivostok"
+9e665fe6-4521-4299-8b3d-2906ae64bd1e,7841,Gali Paranthe Wali,Visakhapatnam,Madhya Pradesh,India,,-59.5868,-61.9742,-3:30,Newfoundland
+69bd749a-8422-4d08-8274-24026872c84a,9941,تقوی,ساری,چهارمحال و بختیاری,Iran,,-54.9947,-168.9299,+5:45,Kathmandu
+85cd4948-5a75-43a2-aa08-7b4ff7be8ea7,5990,Prolongación Anguiano,Santa Cruz El Grande,Hidalgo,Mexico,,26.7340,-154.6469,+10:00,"Eastern Australia, Guam, Vladivostok"
+94b830e4-5c5b-4c83-b934-b9fe3c8951d2,3610,Calle de Ferraz,Ferrol,La Rioja,Spain,,61.7898,-68.5167,-10:00,Hawaii
+ac23e4d8-daa6-4e54-ac3e-64be3051ca93,2777,Itsenäisyydenkatu,Lapinjärvi,Southern Ostrobothnia,Finland,,53.5807,-34.4598,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+011dbca5-2b63-4d78-aa15-a9e8229bcb2c,1778,Corredor Rumania,Pujal Coy,Michoacan,Mexico,,20.2403,151.5831,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+f2b505ca-7643-4bbd-934a-8be95d3ec8dc,8360,Tunalı Hilmi Cd,Konya,Nevşehir,Turkey,,8.5037,92.6109,-6:00,"Central Time (US & Canada), Mexico City"
+be9e9200-0223-43ef-aeb9-04c5a806a976,9708,Herbert Road,Carlow,Westmeath,Ireland,,-70.5665,-159.4233,-6:00,"Central Time (US & Canada), Mexico City"
+52bc6049-5e59-4a2c-994a-3047f919ca06,3168,Gandhi Maidan Marg,Hapur,Maharashtra,India,,16.0879,10.4350,+5:45,Kathmandu
+24b022f2-2223-42f2-be41-66c0a536c4e1,7845,Rue Laure-Diebold,Limoges,Vendée,France,,-1.7898,-82.0608,-2:00,Mid-Atlantic
+9784075d-3f62-484e-9b3f-5926b736a20f,9985,Hanska,Šabac,Kosovo,Serbia,,-68.1889,84.2452,-10:00,Hawaii
+12fcb4e2-a940-485f-babe-057053c58769,5045,Valley View Ln,Gladstone,Queensland,Australia,,-54.2160,118.0570,-6:00,"Central Time (US & Canada), Mexico City"
+6aabf656-7fe7-4329-8488-778636307f1a,5437,Westheimer Rd,Mackay,Australian Capital Territory,Australia,,66.4433,-105.4809,-2:00,Mid-Atlantic
+cef430bb-f3d6-4c43-b62d-4cca118e34ae,6546,Pirkankatu,Nykarleby,Kainuu,Finland,,-19.5671,89.3534,+5:45,Kathmandu
+f1992079-7168-405c-b7bc-ee84b86cf44d,6103,Rolling Green Rd,Busselton,Victoria,Australia,,21.3869,76.7054,+7:00,"Bangkok, Hanoi, Jakarta"
+cad39ae7-5cf6-40c0-9b8d-2dce7db84c6e,1900,Perehid,Antracit,Chernivecka,Ukraine,,75.4432,-29.6386,+9:30,"Adelaide, Darwin"
+dc383692-0848-41c6-8f59-62964ae7bc32,8685,Rajaji Salai,Solapur,Meghalaya,India,,-24.2164,136.4547,-11:00,"Midway Island, Samoa"
+2f6bb5a8-68a0-41d7-aef9-af2f8b97d91a,7054,Place de la Mairie,Flerden,Luzern,Switzerland,,-33.3912,112.2333,+10:00,"Eastern Australia, Guam, Vladivostok"
+8de33a79-4bb8-4c1b-906d-6bc10f929a55,9835,میدان شمشیری,بندرعباس,تهران,Iran,,51.4631,-69.1421,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+cbf53d75-d212-4467-9a6a-be802d97cead,7610,Rue des Ecrivains,Poitiers,Aube,France,,-4.9231,146.4310,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+68be4bd6-eb9a-4737-9432-fe6de498a6e3,1477,Rue Saint-Georges,Chapelle (Glâne),Schaffhausen,Switzerland,,68.1923,-104.0650,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+5e3002e6-5ba1-4d4f-bd2a-5f87d3568f6f,9201,Monolitveien,Sira,Aust-Agder,Norway,,-16.3051,-46.1325,-11:00,"Midway Island, Samoa"
+4895647e-0a53-41c1-9315-8a77aa4509e4,3265,Strategichniy provulok,Striy,Avtonomna Respublika Krim,Ukraine,,7.7341,3.5123,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+ba101441-090e-4020-88ad-04c4dfc3359f,68,Nowlin Rd,Sunshine Coast,South Australia,Australia,,85.2380,99.4623,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+fab4a7d3-5298-489a-be34-e5397d2e8c52,2657,Avenida Brasil ,Guarulhos,Roraima,Brazil,,-7.2240,-52.4069,-6:00,"Central Time (US & Canada), Mexico City"
+93e4906a-6f31-4f46-b63b-54434101167c,2166,Oak Lawn Ave,Columbus,Maine,United States,,44.5554,130.8133,+9:30,"Adelaide, Darwin"
+e203e323-bca2-4fd7-a7ec-ba2b16f22055,8758,Rookery Road,Ennis,Kilkenny,Ireland,,50.1070,-95.4785,-11:00,"Midway Island, Samoa"
+80d23a27-faaf-4e90-bdac-1fd85de83a63,6102,راستوان,بیرجند,مرکزی,Iran,,78.4753,-171.2247,+9:30,"Adelaide, Darwin"
+6db380da-5117-438f-94e0-8e139de34780,9910,Krupanjska Ulica,Svilajnac,Central Banat,Serbia,,85.6728,16.5092,-9:00,Alaska
+0411dc0c-a346-43e1-8c80-462080ec5d40,4321,Pirkankatu,Tervo,South Karelia,Finland,,-22.5549,137.6328,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+3fcfe7ed-697d-4384-afa8-0ed17f432dee,7640,Kongensgade,Odense Sv,Sjælland,Denmark,,8.8238,-147.6238,-1:00,"Azores, Cape Verde Islands"
+730c7a7d-fe08-42e5-b5e9-45577ebd6316,9928,Ds A W Buningwei,Rouveen,Zuid-Holland,Netherlands,,42.2181,20.3390,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+fcae1efc-aa4a-4461-b502-4dc0083b355b,8230,Rua da Saudade,Blumenau,Mato Grosso do Sul,Brazil,,-26.2279,159.2651,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+6fe57588-ffa7-41d3-a0e8-57fe521fbc9b,6345,برادران سلیمانی,اردبیل,تهران,Iran,,89.8219,-159.4212,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+a17226ec-96d2-4c6c-ba48-b78aa0346ef3,8572,Park Lane,Newcastle West,Dún Laoghaire–Rathdown,Ireland,,12.1647,-95.7701,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+f739bcd8-ab84-49a2-871c-172b0984e2d7,5478,Rue des Écoles,Müntschemier,Luzern,Switzerland,,-75.8785,-29.5019,+10:00,"Eastern Australia, Guam, Vladivostok"
+80a0007c-b7cd-49f2-9d28-9d4657cf8d18,2513,Rua da Saudade,Guarulhos,Tocantins,Brazil,,-36.9152,-54.7109,-9:00,Alaska
+3d74e653-9dc3-491e-820e-040bf7e32595,7075,Edwards Rd,Darwin,Queensland,Australia,,57.8678,-65.3153,-9:00,Alaska
+907a7ef5-d644-439a-a8f5-63e6950c00c2,8719,Badovačka,Smederevo,Mačva,Serbia,,84.8815,-15.8256,-3:00,"Brazil, Buenos Aires, Georgetown"
+7dd06aef-db54-4292-97e5-b7d5c0a46d3d,7822,Floris Versterstraat,Mariaheide,Limburg,Netherlands,,18.7988,-15.4748,+11:00,"Magadan, Solomon Islands, New Caledonia"
+e2958aed-2cde-4246-aabf-1d513723fd17,9004,تقوی,خوی,کرمان,Iran,,-64.6388,-103.7473,-2:00,Mid-Atlantic
+5fe2611c-89ec-4d9a-b1f4-0be851be6d1f,9713,E North St,Ballarat,Australian Capital Territory,Australia,,82.7594,-108.7053,-3:00,"Brazil, Buenos Aires, Georgetown"
+5278038b-1405-4e73-90b9-c6226ea012b6,6991,شهید شواخ,ورامین,آذربایجان غربی,Iran,,5.1517,174.4093,+6:00,"Almaty, Dhaka, Colombo"
+534fdd9e-e5cb-42a4-88fd-3d07eae887fb,3686,Valwood Pkwy,Rochester,Washington,United States,,26.0075,144.5060,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+cb5c650d-f493-4cc8-9846-5045f3e8b164,7465,Myllypuronkatu,Asikkala,Finland Proper,Finland,,-13.7175,175.3521,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+be922949-e682-4cbc-99a9-29c5621fe8bd,8481,Calle de Alcalá,Alcobendas,País Vasco,Spain,,9.0564,124.9316,-9:00,Alaska
+f78f0740-b483-4213-ac40-ac66c6962ba0,353,Place de la Mairie,Lavigny,St. Gallen,Switzerland,,-60.5762,-93.2624,+7:00,"Bangkok, Hanoi, Jakarta"
+04568be5-6a83-4045-9370-94e20d426771,4116,Target Road,Taupo,Wellington,New Zealand,,-16.9042,-31.8793,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+dbbe9519-bd4a-467a-a697-495e92c46e69,8359,J O Husleylaan,Odijk,Groningen,Netherlands,,-67.6722,-39.2782,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+33d00502-a15e-4778-8547-a101c9f013dd,252,Retorno Oaxaca,Navojoa,Hidalgo,Mexico,,30.8981,-9.7709,+7:00,"Bangkok, Hanoi, Jakarta"
+8b450762-ff41-4f5c-b075-b25a843cd395,2816,Grankvisten,Heiås,Troms - Romsa,Norway,,23.4695,105.2778,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+f374bd0f-02db-4e8d-9790-d9840ac9384e,9450,Doktorlar Cd,İstanbul,Bilecik,Turkey,,12.1678,-88.8457,-9:00,Alaska
+17a16496-f481-45ae-8b60-3e64ebf93a7d,3944,22nd Ave,Selkirk,Manitoba,Canada,,56.1279,-138.4455,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+b225f52c-1f25-40e1-8a02-ce7ff3e4a7f0,7095,Travessa dos Martírios,Valinhos,Sergipe,Brazil,,-12.6933,-176.4627,+6:00,"Almaty, Dhaka, Colombo"
+0e76b568-7c38-459c-a8d9-18b6f522cbb1,8790,Hatanpään Valtatie,Humppila,Northern Ostrobothnia,Finland,,89.2164,-20.8116,-10:00,Hawaii
+8f43a514-80ca-4453-9c57-7b3b04ab2b05,9930,St. Catherine St,Tecumseh,Northwest Territories,Canada,,15.8606,124.7464,+9:30,"Adelaide, Darwin"
+18c64b63-d384-4e6a-af02-757e2054f54a,3353,Rue Bataille,Cologny,Bern,Switzerland,,-65.3387,-1.1790,+11:00,"Magadan, Solomon Islands, New Caledonia"
+7d1b2905-309c-4fa0-84c9-d5c7400a4cbb,3948,Place de la Mairie,Le Vaud,Fribourg,Switzerland,,39.3772,-115.3664,-3:30,Newfoundland
+bbf85719-a62a-4c6e-8ad7-6d35ad5a4447,9981,Rua Paraíba ,Itajaí,Paraná,Brazil,,-38.4121,-119.8662,+5:45,Kathmandu
+1787e876-9615-461b-b565-fc758c7edb3e,1357,Frances Ct,Utica,Minnesota,United States,,-81.6852,73.1223,-11:00,"Midway Island, Samoa"
+c50fa6b1-f86f-49fd-bce1-4c01645c032d,5028,Avenida Brasil ,Águas Lindas de Goiás,Amazonas,Brazil,,-14.2790,-92.2689,+3:30,Tehran
+0a55cbd8-e40b-459f-b967-edf3d833a411,8442,Avondale Ave,Wagga Wagga,Tasmania,Australia,,30.7821,30.8506,+2:00,"Kaliningrad, South Africa"
+260279fc-bbad-4a88-966a-541aec23830b,8120,Callejón Lozada,Malinalco,Chiapas,Mexico,,77.0843,160.6890,-3:30,Newfoundland
+d8db8486-e1a2-40e6-8d96-0c9870272c56,2106,Eason Rd,Cedar Hill,West Virginia,United States,,22.2155,-73.8226,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+1ef5e781-9643-420a-aa82-92473a786911,2107,Poststraße,Buttstädt,Baden-Württemberg,Germany,,-57.3771,118.8622,-11:00,"Midway Island, Samoa"
+1b0c1a33-9116-4f13-90a8-77a388a2873f,8144,استاد نجات‌اللهی,سیرجان,لرستان,Iran,,0.3457,-97.5981,+7:00,"Bangkok, Hanoi, Jakarta"
+f0af1051-cd95-4bd6-ab30-ffc510268a2e,9468,Krečanska,Žabalj,North Banat,Serbia,,18.8980,-139.3927,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+7ab3ca1f-2fdd-4dcd-8872-d141229c8279,5338,Rue de la Charité,Le Noirmont,Schaffhausen,Switzerland,,29.3615,-157.2240,-6:00,"Central Time (US & Canada), Mexico City"
+36cdb077-cbe4-48a6-af77-236e69dce28d,2744,Pasaje Sinaloa,Ezequiel Montes,Nuevo Leon,Mexico,,-13.3957,-162.8893,-12:00,"Eniwetok, Kwajalein"
+92d20257-ea1c-4c14-b39c-c581732a6efa,7008,شورا,خوی,خراسان جنوبی,Iran,,1.9226,-72.8637,-11:00,"Midway Island, Samoa"
+3fbe1e97-a858-4cc4-9105-97cb2e814afd,3557,Calle del Pez,Pontevedra,Cataluña,Spain,,-57.3609,58.7209,+5:45,Kathmandu
+e8758b56-fffb-4b02-a02e-c59d69eaa555,2944,Gali Paranthe Wali,Jamalpur,Dadra and Nagar Haveli,India,,-42.4208,71.3612,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+ef769fdf-5da9-41d9-875a-37c291def1db,7,Grønlandsleiret,Hoffland,Aust-Agder,Norway,,41.6895,95.9747,+4:30,Kabul
+40214980-9ff7-4a07-814b-37d4c29128e0,6296,E Center St,Devonport,Tasmania,Australia,,28.3937,143.7798,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+c8b5bf8f-b769-4741-944d-cf5c2c1d3226,6428,Vatan Cd,Çorum,Ordu,Turkey,,73.7158,-123.9644,-3:30,Newfoundland
+95bd2e6f-9e58-45c6-a742-7b4dee02fa0f,9606,Framveien,Ekne,Oppland,Norway,,25.7075,-21.4315,+6:00,"Almaty, Dhaka, Colombo"
+84b4f923-7e5b-4ba6-825b-15905aa32660,6461,Woodlawn Avenue,Carlow,Cork City,Ireland,,-20.3884,-156.2760,+5:45,Kathmandu
+c028dae5-d160-44ad-ae95-12fb11d6fcb4,4356,The Avenue,Sunderland,Wiltshire,United Kingdom,,87.2440,174.5036,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+d6b77969-4582-45a2-b96c-93a3d39e23f9,4756,Elles Road,Palmerston North,Wellington,New Zealand,,-76.0266,82.8070,+7:00,"Bangkok, Hanoi, Jakarta"
+78151e0a-1596-48eb-8b26-ffa35b6bbda6,2718,Starosinna ploshcha,Talne,Zaporizka,Ukraine,,-27.4746,3.4544,-1:00,"Azores, Cape Verde Islands"
+d827ca7d-ce48-4952-bed8-18dfcab0b28a,9554,Concession Road 6,Grand Falls,Newfoundland and Labrador,Canada,,23.5833,-2.9139,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+175ca621-f746-4c68-b17e-eeeabe2e89dc,9530,Rue Bataille,Kaisten,Schaffhausen,Switzerland,,86.0698,152.8396,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+59894cb2-1002-455c-8938-d78e04e38318,762,Hillcrest Rd,Scottsdale,Utah,United States,,-76.0047,139.3287,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+5bb6b948-5111-4c6a-8b4a-0fa9f3d204d8,932,Filistin Cd,İstanbul,Muş,Turkey,,-20.1453,-17.7811,-3:00,"Brazil, Buenos Aires, Georgetown"
+07c0fea4-a76b-4fe3-9e41-ba9b570ce575,5934,Chaman Ganj,Saharsa,Tamil Nadu,India,,-20.5844,-92.0149,+10:00,"Eastern Australia, Guam, Vladivostok"
+077192f7-a4c2-4671-9fd0-07df1686b35c,7628,Avenue Tony-Garnier,Lupsingen,Glarus,Switzerland,,-19.0017,-139.8677,+10:00,"Eastern Australia, Guam, Vladivostok"
+87338b20-17e0-4aac-946c-f803b0085b60,2436,Broadway,Salisbury,Rutland,United Kingdom,,-35.2851,178.7887,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+628e4ea3-b6be-4f21-a9b0-cfbf27c2325c,2634,Forest Ln,Daly City,Nebraska,United States,,-28.3821,154.3750,-11:00,"Midway Island, Samoa"
+5d44b36a-b0cb-4161-8fd5-139001dd0aed,1085,Crockett St,Bendigo,Queensland,Australia,,81.7794,116.4657,-3:00,"Brazil, Buenos Aires, Georgetown"
+f9dc6368-0a6c-4427-b232-a648398c7864,7831,Manor Road,Cardiff,Gwynedd County,United Kingdom,,-23.0647,-168.6802,-6:00,"Central Time (US & Canada), Mexico City"
+d073f957-d4bc-4d87-ad55-3d1574ceb7b4,3942,S.A Rd,Muzaffarpur,Daman and Diu,India,,-35.7979,133.8120,-3:30,Newfoundland
+cafaaa11-169b-4659-ae04-88e974ab06f8,8165,Mevlana Cd,Erzincan,Antalya,Turkey,,-38.9304,-134.1029,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+d50e7b45-6c36-4085-a617-475c4e20e50d,8120,Continuación Grecia,Indaparapeo,Hidalgo,Mexico,,-27.0907,-102.6126,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+4707b23c-c09a-4b07-b928-975f7aad6c72,3758,Rua Carlos Gomes,Nossa Senhora do Socorro,Piauí,Brazil,,86.6235,27.5861,-12:00,"Eniwetok, Kwajalein"
+ef2eb1f5-37ac-4ca6-a2a6-9ba3c4931bc4,1912,Mcgowen St,Duncanville,North Dakota,United States,,-8.0715,44.2141,-8:00,Pacific Time (US & Canada)
+e3da3da8-903e-4cce-a327-80935be56b06,4988,Nowlin Rd,Fremont,Mississippi,United States,,-15.0811,94.8669,-6:00,"Central Time (US & Canada), Mexico City"
+f1ee4783-5656-47e7-b43f-42e0d265b5f8,5243,King St,Fauquier,Nova Scotia,Canada,,62.1247,-27.2944,+3:30,Tehran
+6c8ad6b7-6323-4aa6-a6bd-fb8517ed928e,405,Kingsway,Nottingham,Derbyshire,United Kingdom,,-51.8741,-174.2050,-3:30,Newfoundland
+559e49de-e780-41aa-9e88-d98fbbd8f353,5060,Česma,Lapovo,South Banat,Serbia,,47.6027,-65.9617,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+ee865d24-04d0-478a-a2a6-aa636ce7f9de,2033,Bronmos,Midsland,Flevoland,Netherlands,,-86.9633,90.6788,+6:00,"Almaty, Dhaka, Colombo"
+64d8f578-819e-4e06-9050-6f22002e2a21,3114,New Road,Oxford,Essex,United Kingdom,,82.5571,99.1543,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+0c6dbf3e-1f4b-4237-963d-8bf243a47d8f,5383,Taieri Road,Christchurch,Northland,New Zealand,,-64.9044,-114.4307,-8:00,Pacific Time (US & Canada)
+d670d1c8-6a97-4f6a-b317-8d2017a38d66,7803,Worcester Street,Tauranga,Otago,New Zealand,,76.7459,14.8391,-9:00,Alaska
+da3a67a9-db7a-4df2-a0b8-b7eae356c408,3457,Gasthuiswaard,Itnes,Drenthe,Netherlands,,68.9435,14.0072,-10:00,Hawaii
+15ea21a1-0b24-4468-b80c-1b59231d48bc,4160,Deans Avenue,Napier,Marlborough,New Zealand,,-83.3281,132.9251,-1:00,"Azores, Cape Verde Islands"
+fbfda20a-3d03-438c-a374-e47f18b2e5d9,9025,NAD X Rd,Mathura,Manipur,India,,-52.8453,120.5850,+11:00,"Magadan, Solomon Islands, New Caledonia"
+ba89334f-2c60-4593-bb34-7b5e7a940e43,7633,Fialkova,Malin,Dnipropetrovska,Ukraine,,80.5290,-99.7236,+4:30,Kabul
+aa4db302-97d9-4b3d-ac2c-124e4b027ef4,9105,Mevlana Cd,Mersin,Diyarbakır,Turkey,,75.5711,158.5858,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+f710ef26-e816-4892-b3fc-de7b03e7ebe3,3826,Fatih Sultan Mehmet Cd,Kırşehir,Tunceli,Turkey,,59.9128,69.7222,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+f26f64b9-d862-4e77-aa24-1346ab5b6086,7749,Rue Louis-Garrand,Saint-Étienne,Haute-Marne,France,,31.6165,-173.3904,+11:00,"Magadan, Solomon Islands, New Caledonia"
+873e0dae-ad0b-4499-8b44-a4e85148bb6f,7230,Rua da Paz ,Brusque,Pará,Brazil,,-7.8891,166.9839,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+e45f78ea-cffe-4501-919c-9525a2bc13fb,2754,Kildals vei,Høyjord,Oslo,Norway,,58.3997,1.8474,-8:00,Pacific Time (US & Canada)
+712e3314-9f2d-4ea3-baff-ecf384581769,1677,Nad Dzherelom,Lyubotin,Hmelnicka,Ukraine,,-44.2792,-71.7612,-11:00,"Midway Island, Samoa"
+1c4106ae-e92a-4989-8c7f-b439763d124f,3665,Tahmelantie,Taipalsaari,Ostrobothnia,Finland,,53.5270,73.3861,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+6619509e-762d-4370-9535-a082061ca7cb,4100,Rua Duque de Caxias ,Pelotas,Rondônia,Brazil,,-22.0459,-8.7331,+10:00,"Eastern Australia, Guam, Vladivostok"
+87957700-b852-44ca-a62e-cc0b56f0aa86,1671,Moštanička,Vršac,Raška,Serbia,,38.2809,-148.8169,-8:00,Pacific Time (US & Canada)
+f5f13721-2c5f-4e72-b29b-96f1412fd987,398,Oleksi Tihogo,Znam'yanka,Hersonska,Ukraine,,1.9491,27.9634,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+c60f6c4a-f8db-46ff-a8ab-b793000148b5,8302,Rue Abel-Gance,Créteil,Haute-Corse,France,,-66.7926,20.4746,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+0e9b1899-9937-44c9-9896-558fb8ef966e,2147,Koekkoekhof,Tinte,Gelderland,Netherlands,,-5.4681,124.0642,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+9664afef-8f41-40d5-9d0e-97e77ef3df8b,2388,Rue de L'Abbé-Roger-Derry,Vully-les-Lacs,Graubünden,Switzerland,,10.8564,62.2771,-1:00,"Azores, Cape Verde Islands"
+bab20183-c00e-4f99-b004-a2b08c9af169,5810,Eduarda Mihela ,Krupanj,Pomoravlje,Serbia,,62.4139,179.1862,-3:00,"Brazil, Buenos Aires, Georgetown"
+d67326c9-9684-4702-8aa8-8203d26fa253,869,Rue Baraban,Gelterfingen,Zürich,Switzerland,,84.5810,-96.6985,-9:00,Alaska
+181026c3-405d-4341-987b-cdf81342bce0,325,Verkatehtaankatu,Hartola,Central Finland,Finland,,-60.2262,168.3207,-6:00,"Central Time (US & Canada), Mexico City"
+892a4c51-36d1-4636-9e72-0cf7999fb1a7,5203,استاد نجات‌اللهی,کرمانشاه,آذربایجان غربی,Iran,,58.8959,-97.6936,+11:00,"Magadan, Solomon Islands, New Caledonia"
+9357f167-7cee-4282-bc51-54207d73d7c7,8600,Rochestown Road,Portarlington,Donegal,Ireland,,74.5688,-102.0437,+2:00,"Kaliningrad, South Africa"
+02fac260-90cf-4114-8b3c-70eb6612ce23,8192,Gali Paranthe Wali,Akola,Mizoram,India,,26.6298,55.1302,+5:45,Kathmandu
+e145d9ac-0d52-4b32-b8e6-54b2640b99b9,522,Grove Road,Armagh,Suffolk,United Kingdom,,-49.9465,-58.5953,-9:00,Alaska
+c4e954ac-8a3b-407a-929d-86bdc7ceee16,7588,Kvantaška,Gornji Milanovac,Rasina,Serbia,,76.8677,-59.1754,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+911ab0bc-ed3e-4d1f-ad1f-d2552690c28a,615,Richmond Park,Carrick-on-Suir,Cork,Ireland,,3.1844,-121.5196,-12:00,"Eniwetok, Kwajalein"
+133208fc-3515-45c2-a5fc-6024f22267c2,169,Mirza Ghalib St,Anand,Goa,India,,-32.8597,165.7589,+11:00,"Magadan, Solomon Islands, New Caledonia"
+8dbc49a2-cefe-4e34-82cc-d790076e2ec8,1854,Washington Ave,Lowell,South Carolina,United States,,39.0050,-24.4593,+7:00,"Bangkok, Hanoi, Jakarta"
+9c6f4609-6c69-4c14-a17d-df1da9cbef05,6669,Rue des Ecrivains,Champigny-sur-Marne,Eure,France,,-31.5621,35.8081,+5:45,Kathmandu
+dbec6854-a799-4c48-bb68-93f7bf73dd52,617,Prebensen Drive,Gisborne,Southland,New Zealand,,-28.7626,123.8967,+6:00,"Almaty, Dhaka, Colombo"
+68d59ba1-c94c-4463-a714-981e9a682af9,9521,Place de L'Abbé-Georges-Hénocque,Emmetten,Jura,Switzerland,,-22.5734,-23.7308,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+40f1f3ae-c3a8-484c-a11c-79d3266d1b6e,5471,Kingsway,Brighton and Hove,Northamptonshire,United Kingdom,,21.6555,-123.3855,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+c88e6ccd-026a-4d76-b0af-dfd0547d826f,4502,22nd Ave,Jasper,Saskatchewan,Canada,,-84.4918,-98.7646,+11:00,"Magadan, Solomon Islands, New Caledonia"
+0751eb9a-7cfd-4a21-b9a9-180a51d9767d,170,Denny Street,Kildare,Roscommon,Ireland,,13.8764,-167.5592,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+b4d250e1-f860-4506-a588-76b7d9b388ee,5049,Bağdat Cd,Ankara,Elazığ,Turkey,,-18.8927,-138.8279,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+5b80c6f4-e8d7-4aee-8723-04e88a54777e,4468,Hasselvej,Horsens,Danmark,Denmark,,-13.9472,-77.8051,+5:45,Kathmandu
+d074f8b9-7773-4555-93ab-8a5c1b5cab5d,5355,Lemkivska,Lanivci,Harkivska,Ukraine,,-81.9820,-124.2628,-3:30,Newfoundland
+1f662eef-13b1-45c7-8096-f0bb771435f9,7426,Rua Santos Dumont ,Nossa Senhora do Socorro,Rondônia,Brazil,,-30.1730,150.4698,-3:30,Newfoundland
+15afa761-7bfc-4afa-b4eb-60cfba768bb5,8189,Lambertseterveien,Bremanger,Vest-Agder,Norway,,54.0496,32.8562,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+725fe4e0-3440-450e-9b45-7a91df5c8963,6385,Rue des Abbesses,Andeer,Bern,Switzerland,,-49.0677,-114.6022,+10:00,"Eastern Australia, Guam, Vladivostok"
+73dabf23-03c6-467c-9d37-ebbfe7e3e36c,8001,Pearse Street,Ardee,Dún Laoghaire–Rathdown,Ireland,,77.7360,98.0430,+9:30,"Adelaide, Darwin"
+b5d0c4b6-5487-4c32-9686-092bb250dff6,9758,Ðorđa Milovanovića,Prizren,Kosovska Mitrovica,Serbia,,-6.3961,37.4169,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+8da3a0cd-6239-4554-ac3f-3fc886bd0ffc,5406,36th Ave,Trenton,Ontario,Canada,,-81.7724,-148.1063,-6:00,"Central Time (US & Canada), Mexico City"
+18332812-2d18-4612-8ebf-14eebf2a4173,8820,Oak St,Jasper,New Brunswick,Canada,,79.5454,46.9430,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+6e391b90-1341-4892-99f8-c85e26ca6a26,5719,Ievgena Chikalenka,Shchastya,Harkivska,Ukraine,,-66.3723,-85.1150,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+db185143-9431-496e-95fc-f680cae35000,7736,Grove Road,Tauranga,Wellington,New Zealand,,44.3798,23.9064,-2:00,Mid-Atlantic
+f3119254-4bc3-49ed-9714-c615ce72e523,6063,Kløvermarken,Branderup J,Nordjylland,Denmark,,53.9659,-57.9758,-11:00,"Midway Island, Samoa"
+b610e6b0-e2df-4469-a7fc-b7d07d0ae1b7,5520,Nedre Skogvei,Degernes,Hedmark,Norway,,55.4808,-5.0845,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+0776e0a1-7d09-442c-a9da-86809df8d4fd,5985,Porodice Ristić,Loznica,West Bačka,Serbia,,37.1236,-170.3891,-11:00,"Midway Island, Samoa"
+becf9eff-fcd8-4fc4-9ae8-7f7e69b7f06b,7409,Richmond Ave,Stirling,Ontario,Canada,,-23.6589,126.8485,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+e9d40c0d-8e3a-4605-90b3-eb60178535e8,2035,Bhootnath Rd,Satna,Rajasthan,India,,-71.4637,-109.5914,+3:30,Tehran
+7ac70210-d96e-4b75-bc85-e2bab248ef71,5809,Papanui Road,Hamilton,Gisborne,New Zealand,,-27.9043,173.3545,-3:30,Newfoundland
+0ea63e8c-4cc7-428e-83e2-d2f67be81140,8472,Rue du Dauphiné,Büsserach,Appenzell Innerrhoden,Switzerland,,62.6592,-82.5600,-2:00,Mid-Atlantic
+cadbb608-d02a-4afc-8047-bd8d55cfc0f3,7165,Kushimoto Sk,Artvin,Tokat,Turkey,,4.0605,98.8674,+10:00,"Eastern Australia, Guam, Vladivostok"
+506be38f-9cdc-4b5b-a011-3fdbe5b0dd8a,8587,Hatanpään Valtatie,Vesilahti,Pirkanmaa,Finland,,-70.9134,112.4594,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+09d6dbec-c109-467f-a46c-b9a607cfecb2,4450,I. de Keijzerstraat,Ees,Noord-Brabant,Netherlands,,54.5217,-18.5619,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+449145aa-42ba-4a8c-adc9-69b0c35e8a3a,689,Bannerghatta Rd,Surat,Haryana,India,,-87.5069,-16.9458,-1:00,"Azores, Cape Verde Islands"
+2a491d11-74ef-41b3-8d33-b36ebbe39d43,7547,Hämeentie,Hämeenlinna,Päijät-Häme,Finland,,65.2531,177.1529,+11:00,"Magadan, Solomon Islands, New Caledonia"
+d583a74f-cfea-45a6-80e8-6088fde76822,3321,Elgin St,Santa Clara,Michigan,United States,,63.1482,-11.8514,-2:00,Mid-Atlantic
+e7fbfb1d-57e8-4fb2-9e0d-5a1c09e7bec5,3282,E North St,Warragul,Tasmania,Australia,,-50.5381,-42.4733,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+321d444d-9db5-4897-9f63-b3894dbc27e5,6953,Plum St,Ballarat,Tasmania,Australia,,28.6195,79.5621,+6:00,"Almaty, Dhaka, Colombo"
+dd73bde6-1d62-431f-a62b-76655f1fe9f7,4033,Alexandra Street,Dunedin,Northland,New Zealand,,82.3652,-118.4378,-8:00,Pacific Time (US & Canada)
+fe7db267-a32c-4f59-9ab9-542161d60b3e,2065,Killarney Road,Drogheda,Offaly,Ireland,,-32.5903,90.7952,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+3db16717-f5c7-4b53-865a-009e27fc9015,965,Calle de Bravo Murillo,Burgos,Andalucía,Spain,,-72.4441,-116.0470,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+1fada031-880d-4e15-a69d-51fe0a5b0029,5537,Sitabuldi Main Rd,Bulandshahr,Sikkim,India,,32.0612,59.0508,-12:00,"Eniwetok, Kwajalein"
+0e3e3d00-d077-4763-8a61-7fbcbffef8f5,5197,Dieppe Ave,Delta,Northwest Territories,Canada,,-45.0232,-72.3410,-6:00,"Central Time (US & Canada), Mexico City"
+a3ca3fc5-a050-4a7b-b339-0dee072d3f67,2173,شهید کامبیز خشی,اراک,خراسان شمالی,Iran,,-34.1857,88.7601,+2:00,"Kaliningrad, South Africa"
+390aac8e-5bdb-411e-a166-437a4fae5dbb,2691,College Road,Rotorua,Nelson,New Zealand,,-86.3600,86.7610,-9:00,Alaska
+683b8a64-4d0d-4e7a-9884-1c396efde60b,2677,Nordenskiöldinkatu,Korsnäs,Satakunta,Finland,,-28.9243,66.7333,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+36c678c0-7c1f-4fac-be7f-b4a8dbc7c4f7,4217,South Street,Carrick-on-Suir,Clare,Ireland,,-36.0852,-136.1033,+11:00,"Magadan, Solomon Islands, New Caledonia"
+25d8d8b3-2240-46ae-aa5a-4e26a9e481e5,1160,Filistin Cd,Manisa,Muğla,Turkey,,23.0159,-16.3922,+2:00,"Kaliningrad, South Africa"
+cf69f563-3085-40ec-b887-fbebb0594c2f,9676,Victoria Ave,Odessa,Northwest Territories,Canada,,-66.7733,-121.5102,+6:00,"Almaty, Dhaka, Colombo"
+1660089c-3a1f-4000-b3b2-925164647466,2987,Mannerheimintie,Alavus,Uusimaa,Finland,,22.8915,155.3103,+2:00,"Kaliningrad, South Africa"
+c1d385ec-f78a-4e6f-8c3a-4740e0a0eaf7,1577,Dzherelniy provulok,Sudak,Mikolayivska,Ukraine,,67.3481,157.0587,-6:00,"Central Time (US & Canada), Mexico City"
+12ce0811-0dcf-4768-b6b3-4e681c9c24c6,9200,Rosenstraße,Windischeschenbach,Sachsen,Germany,,78.6102,-33.5080,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+035f0dc3-ac1b-4cae-8243-fb9fb576c4f0,7991,Pearse Street,Newbridge,Louth,Ireland,,-62.7916,-10.2061,+7:00,"Bangkok, Hanoi, Jakarta"
+024e7ed4-8314-4960-854a-e295216b32b9,9567,New Street,Lincoln,Isle of Wight,United Kingdom,,38.6734,136.5480,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+8dd3e50c-08be-4dd7-bb1b-47e980f2c9a1,5707,W Sherman Dr,Shelby,Texas,United States,,-3.4326,-95.3873,-12:00,"Eniwetok, Kwajalein"
+eb75d340-fba2-4b0a-a330-cecc47ce37f7,1354,Dwaraka Nagar,Munger,Himachal Pradesh,India,,4.5700,149.8488,+6:00,"Almaty, Dhaka, Colombo"
+00abdb18-0ade-408d-8eb3-ceba7081855b,8894,Place de L'Europe,Saint-Pierre,Lot-et-Garonne,France,,71.0845,-6.7430,-1:00,"Azores, Cape Verde Islands"
+9c3814a1-73b3-4f71-ab30-143a62b16ac8,2205,Kushimoto Sk,Ordu,Muş,Turkey,,-61.1949,15.1557,+6:00,"Almaty, Dhaka, Colombo"
+4c372ddf-afab-4f4f-813a-549657b23235,8475,Rua Rui Barbosa ,Salto,Amapá,Brazil,,-77.0093,17.8614,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+b031548e-8fd7-4174-81fe-db69332f9abe,4209,Aleksanterinkatu,Tornio,Kainuu,Finland,,-17.2323,172.0232,+4:30,Kabul
+886faf5b-7b41-4f7e-87aa-9b8b1795162b,5145,اقبال لاهوری,سنندج,گلستان,Iran,,61.0865,-86.7939,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+8b51cc3c-3b30-43c2-89c5-a13b17092c2c,3932,خاوران,ورامین,گلستان,Iran,,19.1811,3.7663,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+6264b5d0-5116-4f0b-ba3a-993fdcd19958,2248,Gnjionska,Lučani,Bor,Serbia,,64.7998,131.6899,+11:00,"Magadan, Solomon Islands, New Caledonia"
+f91d0dd3-b643-4624-b6a9-cafd852cf3a5,1244,Hans C. Gjefles vei,Manger,Hordaland,Norway,,26.0752,101.6255,-10:00,Hawaii
+677f6f6b-190d-48d8-888c-6fe2ae671fb9,8876,Marsh Ln,Salem,Texas,United States,,63.0037,-91.8678,+3:30,Tehran
+8c2cc842-4ac0-4c26-b212-738a7990d855,6934,Rue Desaix,Baulmes,Schwyz,Switzerland,,46.5472,-104.1791,+2:00,"Kaliningrad, South Africa"
+0c5b483a-e4d3-432b-a632-56e44c93daf3,7290,Rue Paul Bert,Limoges,Yvelines,France,,29.4797,-65.8233,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+bca71f04-a497-4f43-b0df-e8031048ee8e,1353,Boghall Road,Roscommon,Cork,Ireland,,-58.2245,132.9545,-12:00,"Eniwetok, Kwajalein"
+8fc37bc0-8f31-4193-b90d-069c9f2250b8,5389,Rue Cyrus-Hugues,Tours,Mayenne,France,,-10.3003,-70.2963,+4:30,Kabul
+043b8e4e-e0b2-41cc-b37f-b38a30cbb060,9117,ایران,سنندج,کردستان,Iran,,-20.3568,-78.2222,-9:00,Alaska
+905988ec-5db6-4293-aa29-866562e83027,3134,Grove Road,Plymouth,Humberside,United Kingdom,,-54.2703,77.0850,-3:00,"Brazil, Buenos Aires, Georgetown"
+a5c21e80-fd4d-4106-a0a7-3836d944639a,6816,Camac St,Agra,Jharkhand,India,,-69.3987,-67.2918,+4:30,Kabul
+c05194c2-33ac-4b8b-8912-2613a7d067e5,1911,Church Road,Wakefield,Strathclyde,United Kingdom,,-74.7461,-94.8137,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+87ba6bb3-42db-42a0-a044-16a5d98ae4be,6513,Periférico Ocasio,El Chucarit,Tamaulipas,Mexico,,-23.6349,104.2424,-10:00,Hawaii
+7a7b0715-eef9-4d68-b4eb-66c096479a35,1863,Pirkankatu,Kuhmoinen,Southern Ostrobothnia,Finland,,-80.8176,167.2347,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+70fe844c-7eb5-4f4a-9d1e-9ba65a1bbf26,4698,Callejón Sur Vaca,San José Chiltepec,Chiapas,Mexico,,22.8176,-142.0013,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+492f2323-2e39-494a-b3ab-153e6f7f6063,4686,Privada Seychelles,Orizaba,Tlaxcala,Mexico,,66.9139,98.9395,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+c926b89e-d527-42fd-b4aa-e0bd48bcf328,4574,Rua Dezesseis de Maio,Rio Grande,Amapá,Brazil,,30.2643,143.6048,-2:00,Mid-Atlantic
+5cca0fd3-f9ae-4c44-9257-cc52481201ab,6426,Peatonal Rosales,Telixtac,Chiapas,Mexico,,75.0280,-32.9672,+10:00,"Eastern Australia, Guam, Vladivostok"
+5cacaf22-4f3c-4e9b-abfa-5c571c97a7e9,9060,Preston Rd,Tweed,Queensland,Australia,,13.0360,-2.5039,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+a3945592-ce34-4d7a-9f87-6ddf52e1c2ac,6943,Brativ Mihnovskih,Lohvicya,Ternopilska,Ukraine,,51.3504,-153.8658,+10:00,"Eastern Australia, Guam, Vladivostok"
+e93aaf02-a379-4939-b385-82b490e9d0b3,1608,Lakeview Ave,Charlottetown,Ontario,Canada,,79.8998,159.0693,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+7ae388c7-80f4-4d33-8189-b4a4727333a5,7230,Karen Dr,Perth,Queensland,Australia,,-76.4240,-75.5707,-11:00,"Midway Island, Samoa"
+adced0d2-6299-41df-b233-11d2393bf013,7988,Pile Alle,Esbjerg V,Sjælland,Denmark,,-82.7794,137.8102,-3:00,"Brazil, Buenos Aires, Georgetown"
+f6ecee1f-b8cd-469b-a507-c7f103f2bb02,9763,Calle de Toledo,San Sebastián de Los Reyes,Andalucía,Spain,,56.3792,95.7092,-3:00,"Brazil, Buenos Aires, Georgetown"
+ef7ef5b9-6d47-41ea-a401-ee42d71ef040,1092,Avenue du Château,Ufhusen,Aargau,Switzerland,,-71.1493,99.8694,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+7dd9df2c-65cd-4739-afbe-81b8c19effe7,6410,Westheimer Rd,Kalgoorlie,South Australia,Australia,,67.7820,-84.2444,-10:00,Hawaii
+587da54a-e02e-48be-a190-e05d64dd5d88,9564,Oak Ridge Ln,Denton,Delaware,United States,,60.1033,-38.9645,-1:00,"Azores, Cape Verde Islands"
+7e8d233d-cd4c-47ae-9228-cf2bb609263d,9136,Grande Rue,Grenoble,Corrèze,France,,-46.0156,57.0834,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+566a2962-e75c-496d-a063-25023834e705,7809,Paseo de Zorrilla,Madrid,Galicia,Spain,,67.7795,163.9563,-11:00,"Midway Island, Samoa"
+a7f50c3c-d404-485b-af91-ba200d7f669a,309,Sinclair Street,Rotorua,Waikato,New Zealand,,19.4000,95.0918,+4:30,Kabul
+368134f3-0287-41eb-bba8-2a6438d4a481,7445,Hereford Street,Hastings,Taranaki,New Zealand,,54.9454,-117.7202,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+74f0167f-4388-415c-9f22-8185e76df0fc,7989,Rua Sete de Setembro ,Volta Redonda,Alagoas,Brazil,,88.0634,149.7858,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+11d6c51c-41f0-4f46-b2b0-16e459a92e0b,308,Richmond Park,Roscommon,Louth,Ireland,,-67.1576,-136.0521,+7:00,"Bangkok, Hanoi, Jakarta"
+19690da1-f279-4890-8d2e-aa5d94e12364,2999,Grensestien,Bergsåsen,Vestfold,Norway,,32.9431,-55.7070,+10:00,"Eastern Australia, Guam, Vladivostok"
+7e9418e8-ad3b-4f92-8d99-259e4cfd7aae,461,Derde Reit,Wilsum,Zuid-Holland,Netherlands,,-61.5201,-136.1856,-11:00,"Midway Island, Samoa"
+f2899768-9c59-45e8-a097-60be1f88569d,1248,میدان شهید نامجو,ارومیه,خراسان رضوی,Iran,,-41.9017,47.2335,-8:00,Pacific Time (US & Canada)
+d214fc18-5f56-4da1-acef-e405a08ff452,3626,Sunset St,Geraldton,Tasmania,Australia,,53.0173,-121.6294,+10:00,"Eastern Australia, Guam, Vladivostok"
+50c1cc34-f62f-449d-b7ef-7738bb30bb12,3256,کارگر شمالی,ساوه,زنجان,Iran,,-16.5772,114.4179,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+13408335-7fbb-44fa-8a6d-86f28d5b9e6c,7249,Avenue de la République,Sessa,Aargau,Switzerland,,25.1606,108.4269,+10:00,"Eastern Australia, Guam, Vladivostok"
+79537fd9-67b9-4b11-8a85-981215d04356,8118,Holtplas,Genemuiden,Flevoland,Netherlands,,50.3826,-30.6120,+10:00,"Eastern Australia, Guam, Vladivostok"
+829f6e36-a3f0-48e0-a6f8-4984fe66b0ac,5087,Dr. Kolfflaan,Vreeswijk,Flevoland,Netherlands,,52.6771,117.4211,-6:00,"Central Time (US & Canada), Mexico City"
+102a12ee-a171-4357-b139-6c1f51dfaaad,4327,Finlandsvej,Samsø,Danmark,Denmark,,54.7358,90.3883,-2:00,Mid-Atlantic
+2c1f2b5e-2504-4439-92e9-50b4876914e9,2410,Vovka,Tavriysk,Zaporizka,Ukraine,,20.0275,-92.4802,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+c569ed1a-2609-43f6-bc04-43898d4bfc11,168,Siilitie,Ilmajoki,South Karelia,Finland,,-3.2143,3.5680,-2:00,Mid-Atlantic
+90f38186-bd82-42a4-ae31-260cbc93e5e5,40,Rua Duque de Caxias ,Jandira,Rio de Janeiro,Brazil,,56.5930,-5.4498,-12:00,"Eniwetok, Kwajalein"
+50173512-2621-482e-8e00-394484f66dc3,1437,Rue Pierre-Delore,Metz,Pyrénées-Orientales,France,,-33.4864,69.7729,+5:45,Kathmandu
+22d8796f-e68d-4aaa-92f8-77e17e3c6273,9572,Rue Louis-Blanqui,Montpellier,Vaucluse,France,,-44.8613,136.1633,-2:00,Mid-Atlantic
+bf6aba26-9c17-4189-ae90-a39cbf511579,2619,Calle de Ferraz,Talavera de la Reina,Extremadura,Spain,,30.6395,-158.0184,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+a4a1babc-b422-46d6-998a-44ead81f4370,1100,Rautatienkatu,Humppila,Central Ostrobothnia,Finland,,-45.0983,-40.4883,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+2ef6d374-ea74-48a9-89ac-d039d699d95f,999,The Grove,Carlisle,Suffolk,United Kingdom,,-63.0311,-13.9847,-3:00,"Brazil, Buenos Aires, Georgetown"
+5b9e885f-31af-4042-bb80-ee012bfbb17f,8528,Longinova,Mitrovica,North Bačka,Serbia,,86.2105,40.6364,+4:30,Kabul
+1e969d90-6ad1-4d39-bb0d-c7dda187320f,8439,Vægtens Kvarter,Roskilde,Danmark,Denmark,,-2.2754,-87.2879,+10:00,"Eastern Australia, Guam, Vladivostok"
+cefeb1e8-353a-4909-8c24-6ca348a0035e,6722,Rue du Bât-D'Argent,Vich,Jura,Switzerland,,-1.7654,101.7601,-11:00,"Midway Island, Samoa"
+a48803e7-6b28-43b9-ba7a-69a0891105ad,815,Lovers Ln,Ballarat,Northern Territory,Australia,,-79.9352,43.8818,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+b4255dbb-92ad-4e41-a8f4-927dd5225e0b,3670,Boulevard de Balmont,Aedermannsdorf,Valais,Switzerland,,85.4911,-125.0914,-7:00,Mountain Time (US & Canada)
+5526c7ad-6f0c-44b0-870a-96ccbc756614,5579,Iduns gate,Aurlandsvangen,Bergen,Norway,,-10.0694,-146.5633,+6:00,"Almaty, Dhaka, Colombo"
+10a8f9d3-7efb-4ac1-9306-e5149044139d,9343,Rue Docteur-Bonhomme,Aix-En-Provence,Seine-et-Marne,France,,8.3443,22.7440,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+c7f2b431-5990-4629-add1-17d0a69a5fc5,5496,Hurdalsgata,Østenstad,Trøndelag,Norway,,63.2045,25.0342,-2:00,Mid-Atlantic
+030f8732-0714-45b4-a1e4-4af32c7b801f,7136,Fabritiusalléen,Hallingby,Nordland,Norway,,47.9990,-7.1298,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+e2373ada-06ca-429e-a901-138e7d16de2e,4672,Avenue de la Libération,Grüningen,Thurgau,Switzerland,,-71.3661,14.5186,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+550ba064-66ba-4381-a89f-c6ce378576c5,3637,W Campbell Ave,Savannah,Michigan,United States,,34.0959,3.0035,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+351dd858-e8a0-4c39-a74c-b8abedcf90cb,9795,استاد نجات‌اللهی,زنجان,آذربایجان غربی,Iran,,60.2947,-150.1228,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+8da1af41-03a9-4895-ba89-07492f1fcef4,797,Jovanče Micića,Mali Iđoš,Bor,Serbia,,-48.9028,142.1507,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+ce32aff7-f17e-417b-8780-7ecfda8ff7a4,8795,Vatan Cd,Antalya,Samsun,Turkey,,-23.1643,-58.9943,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+92299ca1-edcb-47d5-b21f-8d1147013748,3305,Coaker's Walk,Karimnagar,Himachal Pradesh,India,,-35.0370,94.0897,+3:30,Tehran
+11419e68-e739-45d9-85c3-72d153e48acc,503,Avenida de Salamanca,Ciudad Real,Comunidad de Madrid,Spain,,3.7314,-27.0024,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+e21ab30a-ceb4-4ee3-ba06-75c70d2d090e,9022,Cedar St,Vanier,Prince Edward Island,Canada,,-55.5653,43.2579,-7:00,Mountain Time (US & Canada)
+77f5bc50-594e-47f8-a070-f8206cf135ad,1992,Lincoln Road,Hamilton,Auckland,New Zealand,,31.8655,173.3952,+11:00,"Magadan, Solomon Islands, New Caledonia"
+4a621a93-d84a-4001-bf44-2f1863e0bcb9,3804,Zaporizka,Bilicke,Zakarpatska,Ukraine,,-39.1764,57.1477,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+7b02bf12-3960-48be-972d-b07ef4701213,7918,Rue de L'Abbé-Roger-Derry,Bärschwil,Aargau,Switzerland,,-53.2113,-164.2030,-3:30,Newfoundland
+8f0df3e2-745f-46ab-9ba0-5f2ea92ecbce,4304,Naiduthota,Tirupati,Andhra Pradesh,India,,-18.6162,-108.2520,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+e36e78f4-f651-467d-8240-6097837bd538,1225,The Drive,Bristol,Lothian,United Kingdom,,65.3671,-130.7693,+7:00,"Bangkok, Hanoi, Jakarta"
+741863be-4c1a-49b1-b9f7-809676f99d9f,8310,Alde Pasterie,Jorwert,Groningen,Netherlands,,65.8133,46.4273,-3:00,"Brazil, Buenos Aires, Georgetown"
+7826c967-edf9-4d96-949c-b47cca0a262a,6665,Hämeentie,Sulkava,Northern Ostrobothnia,Finland,,44.5852,33.9086,+2:00,"Kaliningrad, South Africa"
+ee26abfc-47c6-459a-9671-c338153cc073,1336,Doktorlar Cd,Şanlıurfa,Ordu,Turkey,,-42.4540,62.3448,-6:00,"Central Time (US & Canada), Mexico City"
+1c5908cb-e436-46a0-ac28-ae465442f932,8493,Elles Road,Hastings,Southland,New Zealand,,-14.0052,-79.3454,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+7a8e239d-267d-4737-b96f-8747a5999530,1259,Peatonal Jalisco,El Bolillo,Tlaxcala,Mexico,,-53.8791,-62.4662,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+e3ef9cce-8f97-43ef-9a53-7a0264373d81,5709,Mustads vei,Prestmoen,Aust-Agder,Norway,,3.0509,-77.4233,+3:30,Tehran
+f1ca0f2c-bbc7-4d9b-b2e8-dff1289647e5,4258,Calle de Ángel García,Oviedo,Aragón,Spain,,-33.1288,-140.6695,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+cd95788a-1797-4965-ad37-eaf0dfdb53f4,537,Grand Ave,Deer Lake,Ontario,Canada,,-43.4071,-124.5708,-8:00,Pacific Time (US & Canada)
+c4e2a72c-1342-4f5c-8ac3-df28bf43a099,7732,Westmoreland Street,Greystones,Kildare,Ireland,,-7.5376,170.9673,+11:00,"Magadan, Solomon Islands, New Caledonia"
+8ab02c87-eb9e-4ac3-bda4-10bd57dec4c9,5126,Mitrofana Hilandarca ,Nova Varoš,Moravica,Serbia,,27.8018,57.0353,-10:00,Hawaii
+906f6756-ac0b-4a28-9180-18d67e07b400,2797,W Campbell Ave,Chandler,California,United States,,82.3690,146.4928,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+2ca3434f-91fc-48d5-ba45-eacd1d91cfc9,3620,Elles Road,Whangarei,Nelson,New Zealand,,-44.2050,-72.5709,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+75ed0fd9-335a-4341-ba47-fa8dcbc6b0c9,6377,James St,Tweed,Victoria,Australia,,-38.3298,148.5706,-9:00,Alaska
+ab090159-6026-4492-9d00-3ead338ae1b4,4524,Vikonkomivska,Snyatin,Odeska,Ukraine,,89.1533,146.2871,-9:00,Alaska
+4aa0efa8-9272-4be4-b020-fae86c50a3c3,2906,Hvedemarken,Sundby,Syddanmark,Denmark,,-84.4218,-108.8169,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+1c2e5663-76ac-4a19-858c-c99c9c622ffd,621,Linking Rd,Jalna,Tamil Nadu,India,,-84.1596,140.6930,+11:00,"Magadan, Solomon Islands, New Caledonia"
+5bb42c0c-0621-478f-862f-e999b31520e2,7408,Calle Nebrija,Torrevieja,Castilla y León,Spain,,7.2195,133.2174,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+1831840f-b64b-4c2e-a705-8f58a0827450,4465,Rua Paraíba ,Limeira,Paraíba,Brazil,,-5.2542,-134.1151,+2:00,"Kaliningrad, South Africa"
+b7269e4e-1ace-4820-8794-34927653cf79,277,Albert Road,Londonderry,Wiltshire,United Kingdom,,66.6313,155.1509,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+4f1ea1d7-fbd9-44ec-90f7-ee64f75517a9,6523,Place de L'Église,Rickenbach (Tg),Valais,Switzerland,,71.3822,-9.7032,-2:00,Mid-Atlantic
+af26b9e5-33d7-4f84-a7c9-16e5354d80b4,2965,شهید محمد منتظری,قائم‌شهر,سمنان,Iran,,84.6284,68.4182,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+c7c4af91-411c-4ef8-a734-d35c86ccad71,9250,Fendalton Road,Porirua,Manawatu-Wanganui,New Zealand,,-5.3359,-42.2503,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+663a3269-e3ef-4ced-a997-e6d4ee2304e9,7899,Trilovskogo,Skadovsk,Rivnenska,Ukraine,,88.1995,-66.7611,-7:00,Mountain Time (US & Canada)
+11ddda40-79f9-4bdb-8a64-921ab12a2db3,7625,Vatan Cd,Rize,Tunceli,Turkey,,-48.7842,7.1335,+2:00,"Kaliningrad, South Africa"
+a4c86b28-fd55-4cc8-9aff-3ddb31c9ecb1,8908,Mühlweg,Bad Soden-Salmünster,Sachsen,Germany,,-62.5992,29.4410,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+328ea7ed-2e46-4a2b-b040-24659ebfbf10,3544,Mevlana Cd,Kocaeli,Manisa,Turkey,,-9.5823,49.4217,-12:00,"Eniwetok, Kwajalein"
+8a16b853-6166-4302-bd16-edc4abe28f02,9382,East Coast Road,Taupo,Gisborne,New Zealand,,-74.0179,-86.1974,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+ee14aaf8-7688-4c18-9c06-6eb33a6c4753,659,Blumenstraße,Philippsburg,Baden-Württemberg,Germany,,18.8714,6.4441,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+56c075ed-8467-41bb-a6a8-bf93eb620670,6879,Acaciastede,Zandhuizen,Friesland,Netherlands,,-14.5414,95.9034,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+d68ce996-da04-4fbe-a5ac-fb7637f3c734,7427,Alendorperweg,Beerze,Zuid-Holland,Netherlands,,18.4874,133.2162,+3:30,Tehran
+24688302-6b0a-41a9-be53-27884f072b46,6192,Anton Mollemanhof,Zunderdorp,Overijssel,Netherlands,,74.2728,-110.8693,-9:00,Alaska
+d083229f-bd98-40d3-995e-52304aa6f60f,3211,Atatürk Sk,Erzincan,Niğde,Turkey,,-24.1594,-141.5729,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+54f21000-668a-4dc2-8a8e-fee04025d506,3813,Haukelibakken,Risøyhamn,Trøndelag,Norway,,-25.6020,-160.2770,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+d53b2006-a8d9-4108-b25e-46ba946d6d59,2704,Travessa dos Açorianos,Várzea Paulista,Santa Catarina,Brazil,,-55.0470,-159.3694,+9:30,"Adelaide, Darwin"
+d545b03e-b09c-44ca-b610-0201f8d89c75,4647,Vatan Cd,Balıkesir,Batman,Turkey,,42.4813,40.3051,+6:00,"Almaty, Dhaka, Colombo"
+4a5ffbe7-558a-4bf5-93a3-fd41d4d4bdbc,8061,Itsenäisyydenkatu,Rääkkylä,Central Finland,Finland,,79.6574,-100.2607,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+624f7ec0-8ac4-4d25-b59a-2eff74061ba5,1800,Colaba Causeway,Patiala,Uttar Pradesh,India,,-11.5310,-57.6974,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+f22f3b9d-3f61-4a2e-8a36-39e54da84c6c,3974,Grobljanska,Kovin,Jablanica,Serbia,,19.0617,43.0738,+5:45,Kathmandu
+db6c6cef-a8a2-4f6f-98ad-b63855c61714,5750,Ljansbrukveien,Heiås,Bergen,Norway,,-25.6124,-178.5624,-3:00,"Brazil, Buenos Aires, Georgetown"
+adc82059-3595-4687-9ee5-58585f731ea5,659,Ormond Quay,Ratoath,Donegal,Ireland,,-11.1598,-166.0463,-12:00,"Eniwetok, Kwajalein"
+630f9df6-d1ac-4885-bf80-e26f01165f38,4589,Kirchgasse,Weiden in der Oberpfalz,Niedersachsen,Germany,,-41.5717,-93.2414,-9:00,Alaska
+e91ed168-ca10-4523-8ac3-399b2e5edba6,1602,Mevlana Cd,Siirt,Denizli,Turkey,,80.1073,71.9802,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+bd5fc35d-b693-40f1-834f-d8895ef1567f,9090,برادران حسنی,زنجان,لرستان,Iran,,-83.8623,127.5465,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+6e0f0f66-dea1-472d-b395-f0f81e08e76a,4542,Hogan St,Bendigo,South Australia,Australia,,4.8839,-106.6482,-11:00,"Midway Island, Samoa"
+44624844-28e2-4b61-868c-e40810701864,4442,Rue de Gerland,Samnaun,Solothurn,Switzerland,,3.1934,111.4564,-8:00,Pacific Time (US & Canada)
+dbc26a07-10a2-4eaa-8323-b7b99731409e,5778,Starih Ratnika,Čačak,Peć,Serbia,,-5.4287,4.1450,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+2ad9150d-e80f-4dcd-80a0-5ad96df8d989,9183,H.C. Lumbyes Vej,Odense Sv,Hovedstaden,Denmark,,-42.9983,52.0768,+2:00,"Kaliningrad, South Africa"
+ebcb5a2a-c4dd-4993-a036-fe9a9f916b6a,6216,Kirchgasse,Meßstetten,Niedersachsen,Germany,,43.7762,150.8272,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+755e2030-db80-41c3-aad3-fe459b5069f0,50,Nyborgvej,Hammel,Danmark,Denmark,,-65.8038,10.2258,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+80c568f9-44b1-4de9-ba37-edc91e098875,995,Grove Road,Portsmouth,Wiltshire,United Kingdom,,-27.0002,-115.1273,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+06ed2c25-ea71-4f0f-8c8a-83c51505e0e0,4530,Ogista Bopa ,Novi Pazar,Kolubara,Serbia,,-3.5489,68.3064,-9:00,Alaska
+9a5e946a-9886-4f3d-af5d-a96204fe2a08,6903,Calle de Toledo,Vitoria,Aragón,Spain,,53.7806,23.8023,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+50fae60f-5cb6-4f81-9433-6cd84a5b01f1,2072,Rue Abel-Hovelacque,Kradolf-Schönenberg,Basel-Stadt,Switzerland,,-43.0813,155.9777,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+0cf0f18e-f775-4500-aed6-4d9fe00d1417,3056,Rue du Dauphiné,Tours,Sarthe,France,,-74.0675,-140.9840,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+4a3141d6-025d-4c8c-9a14-b3499d62dd3e,4072,Veresaieva,Mikolayivka,Chernivecka,Ukraine,,46.5847,-34.2353,+7:00,"Bangkok, Hanoi, Jakarta"
+b321cf5b-ac78-4c58-b00a-213f0c348ae6,7681,Smokey Ln,Rochmond,Minnesota,United States,,78.9105,23.0569,-12:00,"Eniwetok, Kwajalein"
+4fbbadd8-dfad-47a9-b6ba-d2e8bd88e109,818,Rue de la Mairie,Collina D'Oro,Glarus,Switzerland,,21.3010,95.4423,+9:30,"Adelaide, Darwin"
+804c5c47-d2c1-4c6b-8337-f55330be5dce,8763,Mejlbyvej,København N,Sjælland,Denmark,,86.9537,-173.9300,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+edc59a50-ec0b-4122-8dbf-6e4c2f8c7f52,8841,Burgemeester Buiskoolplein,Luyksgestel,Friesland,Netherlands,,57.7264,-59.3486,-8:00,Pacific Time (US & Canada)
+7aee3096-0e0f-437d-8068-0e1c1312f7c9,3094,Rue Barrier,Amiens,Meurthe-et-Moselle,France,,17.3632,72.5839,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+2443ea68-cfdb-4ab3-8e90-c357f0f07385,1832,Ormond Quay,Letterkenny,Cavan,Ireland,,-6.1416,-109.5336,-7:00,Mountain Time (US & Canada)
+11670af5-bd22-4016-9491-d3129cdee0c0,7957,Brannfjellveien,Hattfjelldal,Telemark,Norway,,81.7026,162.8730,+3:30,Tehran
+accf897e-ef20-4340-8733-39059b0a6dfb,2629,Circuito Tabasco,Santa Cruz El Grande,Guanajuato,Mexico,,33.2690,-112.4503,+7:00,"Bangkok, Hanoi, Jakarta"
+606f2f8a-08f3-446b-a63e-50117e3c7161,4498,Avalon Drive,Palmerston North,Waikato,New Zealand,,-3.2968,-54.7046,+2:00,"Kaliningrad, South Africa"
+c4a8daa8-9171-44d0-b83a-ad716f7bce9e,874,Thornridge Cir,Greeley,Wisconsin,United States,,-0.3093,-56.5003,+6:00,"Almaty, Dhaka, Colombo"
+1ab2a43c-a39e-43e0-8291-64dda7b6368b,5240,Blossom Hill Rd,Hartford,North Dakota,United States,,8.4735,-60.6376,+11:00,"Magadan, Solomon Islands, New Caledonia"
+2c21408c-1977-452b-a776-b3f2bf6932b8,9312,Rue Paul Bert,Sachseln,Thurgau,Switzerland,,0.1038,-156.9654,+9:30,"Adelaide, Darwin"
+2a9278d2-a0a6-456a-8950-7d3708d4024a,2875,Krupanjska Ulica,Bačka Topola,Srem,Serbia,,19.5026,-65.3458,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+2024ee4c-45fd-44e7-a86c-830cda8dc67c,9355,Itsenäisyydenkatu,Luumäki,Pirkanmaa,Finland,,-41.9627,175.3882,+4:30,Kabul
+61bcc468-15c6-4efc-bd21-86eeecfaa6b3,4881,Rue Saint-Georges,Roggenburg,Ticino,Switzerland,,61.3080,-120.5034,-8:00,Pacific Time (US & Canada)
+df278532-78ef-49da-94c8-1252f707d065,179,Lakeview Ave,Lasalle,Northwest Territories,Canada,,40.9943,88.5688,-6:00,"Central Time (US & Canada), Mexico City"
+56b88d74-7efe-414b-9c02-3428bc663e68,9419,Gamle Leirdals vei,Gullhaug,Hordaland,Norway,,-10.6508,72.6996,+9:30,"Adelaide, Darwin"
+7bced6b7-5e23-43eb-b632-61d29d52a1db,8313,Spring St,Gladstone,Victoria,Australia,,26.2970,135.6108,-3:00,"Brazil, Buenos Aires, Georgetown"
+3a499330-9428-45af-9705-f8b61f0a928c,9129,Boulevard de Balmont,Laupersdorf,Uri,Switzerland,,81.1592,8.3105,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+b74e8fcf-caf8-4f23-ae07-7fe77d027c3b,5307,Kapitein Antiferstraat,Oostdijk,Groningen,Netherlands,,75.8601,32.6503,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+e87582a0-3733-4cfc-b830-61c8f1cba4cf,4033,Waldweg,Pappenheim,Rheinland-Pfalz,Germany,,-59.8351,166.8543,-12:00,"Eniwetok, Kwajalein"
+ce252b8d-1496-4fb7-a929-9e5b6986e530,9466,Main Street East,Hastings,Marlborough,New Zealand,,67.2450,118.8696,+5:45,Kathmandu
+9ce6377c-8981-4a49-832b-7440751c1783,4420,Grange Road,Rush,Wexford,Ireland,,-40.2859,-51.3682,-10:00,Hawaii
+9ac7b000-7d3b-423b-a7da-6c3b884e9276,4929,Washington Ave,The Colony,Nebraska,United States,,-20.6716,66.5713,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+77c87cae-e8ac-4bf3-a40d-aaf686c09bd8,7961,Rajaji Salai,Faridabad,Madhya Pradesh,India,,-34.7597,12.7955,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+201c74a4-bb9c-49f6-b67c-75869ce97d15,4850,North Road,Nenagh,Kilkenny,Ireland,,0.0227,24.4580,-3:30,Newfoundland
+bc13fefe-3a65-430d-9e23-9085bfcb1999,4131,Kulikove pole,Rubizhne,Poltavska,Ukraine,,-21.4969,128.0058,+2:00,"Kaliningrad, South Africa"
+1f4805c9-d63b-4a0e-b4f0-94366a601612,68,Burgemeester Tydeman-Plein,Kubaard,Overijssel,Netherlands,,57.4022,-7.6726,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+68e25abf-aa03-40be-be08-65da23963f46,8797,Sandakerveien,Sylling,Bergen,Norway,,-39.8185,-109.7547,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+0f3ec84f-054a-43cd-af60-1987172eca03,7830,Bækvej,Beder,Nordjylland,Denmark,,-83.9953,166.3750,+5:45,Kathmandu
+18ee1ac4-247c-45f3-8020-2dd00a9d9f86,5051,Gartenweg,Erbach (Odenwald),Mecklenburg-Vorpommern,Germany,,18.3464,130.9466,+6:00,"Almaty, Dhaka, Colombo"
+a1edbae7-bf3a-4499-b41a-488892645e01,5223,جمال الدین اسدآبادی,بجنورد,کرمان,Iran,,-21.0647,-23.8492,-6:00,"Central Time (US & Canada), Mexico City"
+1c5eb518-8f5c-4ed5-9bbc-92e1db68381e,4277,Rue Paul Bert,Lantsch/Lenz,Vaud,Switzerland,,56.0045,-145.5343,+11:00,"Magadan, Solomon Islands, New Caledonia"
+42253f59-8328-43a2-95e4-ddf21c821370,7231,Manor Road,Westminster,West Yorkshire,United Kingdom,,33.2464,-149.9050,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+12d4c390-21ad-4780-8d9f-6650c03e3b42,1720,شهید شهرام امیری,سیرجان,مرکزی,Iran,,18.5477,3.1980,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+93db9977-85ff-4717-8af9-d60ccb30a983,228,Rue du Bon-Pasteur,Nîmes,Essonne,France,,-10.0524,-151.1663,+7:00,"Bangkok, Hanoi, Jakarta"
+2b7d2493-ee52-4c3a-919a-2122398662b1,564,Friedhofstraße,Vreden,Hessen,Germany,,1.4139,-128.8620,-10:00,Hawaii
+969f50be-41a6-451b-83a1-27e5c5e290c1,5600,Mevlana Cd,Kahramanmaraş,Şanlıurfa,Turkey,,-52.8369,-42.1143,+9:30,"Adelaide, Darwin"
+a742d1b0-a2d1-4582-8dfd-491d58533350,455,Clyde Street,Palmerston North,Marlborough,New Zealand,,-44.0763,137.5349,-3:30,Newfoundland
+8c8e5804-2d8c-4066-995e-009d3393447e,7028,Biermanns gate,Haga,Vestfold,Norway,,-72.1122,-43.6304,-11:00,"Midway Island, Samoa"
+aee9ffde-c5cb-42fc-85ea-3b279430fccc,7886,Pijaca Cerak,Plandište,North Bačka,Serbia,,81.4630,-149.6502,-2:00,Mid-Atlantic
+66c291c9-7985-4c5c-a056-4d0847ea0792,2241,Harnzerhof,Amsterdam-Duivendrecht,Zuid-Holland,Netherlands,,-9.5878,27.9173,-3:00,"Brazil, Buenos Aires, Georgetown"
+b0984271-691c-42ef-a4e1-49a8909628c1,2804,بلوار کشاورز,ایلام,خراسان جنوبی,Iran,,67.4026,-108.1388,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+c457efb0-05ac-497c-b1b0-6aaaf66840c7,3563,Diepesteeg,Smakt,Utrecht,Netherlands,,64.3247,20.7332,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+39cb8914-d291-44f9-ab4b-e6d67c20ce73,6293,Rochestown Road,Limerick,Leitrim,Ireland,,24.4116,82.0846,+11:00,"Magadan, Solomon Islands, New Caledonia"
+a4dc4de3-76d1-4260-9b7f-db5f41a3ac8e,4968,Fredrikinkatu,Hammarland,Kymenlaakso,Finland,,24.7517,89.3479,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+db09214b-3008-45db-9cca-7fe442273261,2396,Great South Road,Gisborne,Northland,New Zealand,,23.7796,15.9469,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+bcda947d-e40c-4413-928c-c335e4748097,3142,High Street,Birr,Galway City,Ireland,,14.1527,-18.4643,-7:00,Mountain Time (US & Canada)
+f040add0-d7ef-4721-8efa-e4b86bfa43b8,5344,Ampliación Hidalgo,Tlaxcala,Quintana Roo,Mexico,,-71.7615,-33.0609,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+e6931dd8-2a69-4063-a92e-1cf279e95814,5619,Doktorlar Cd,Hakkâri,Iğdır,Turkey,,12.7807,-23.3519,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+7aeefebb-bd98-4661-891a-616cdaa459a4,8016,Rue Duguesclin,Stabio,Appenzell Innerrhoden,Switzerland,,-84.0640,-145.3920,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+ed2af790-ba4b-4b1c-9a8b-5346ca64aa73,8150,Paseo de Zorrilla,Castellón de la Plana,País Vasco,Spain,,-55.8125,49.9802,-8:00,Pacific Time (US & Canada)
+0727f46d-c21f-4735-93a7-ea0b42b9d7fb,4273,Rochestown Road,Celbridge,Galway,Ireland,,69.5932,177.5309,-8:00,Pacific Time (US & Canada)
+7de62922-9bb1-4522-a1cd-09eeb0efb31b,9443,Oleksi Girnika,Storozhinec,Harkivska,Ukraine,,-86.6670,64.1229,+3:30,Tehran
+1e8143b5-0faa-45b3-916f-a52b60a3f999,2733,Talak Göktepe Cd,Zonguldak,Bayburt,Turkey,,-10.5773,168.8355,-3:00,"Brazil, Buenos Aires, Georgetown"
+a59aa44d-2f80-4737-8d98-513f14a59dbd,7524,Fatih Sultan Mehmet Cd,Çanakkale,Balıkesir,Turkey,,85.9666,-130.4149,+5:45,Kathmandu
+04da85fb-da1c-4b2b-8b7c-38cb22431e52,7851,Sørligata,Brumunddal,Buskerud,Norway,,-56.2642,59.9552,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+ed13a09f-6883-4f26-866d-e87af8308371,4622,Rue du Cardinal-Gerlier,Riemenstalden,Appenzell Ausserrhoden,Switzerland,,-3.0063,-6.7303,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+7e157ca7-3a78-49c9-af61-0e5b2fa79137,6751,Rua Vinte E Dois ,Parnaíba,Amazonas,Brazil,,-22.9235,53.1690,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+5aa50425-a198-486f-a1f1-a491b95b23b3,6521,Fairview Road,Newport,Cleveland,United Kingdom,,26.4958,-132.2498,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+f6736d05-bfc4-429a-951f-67385f1abf5d,2125,Rue de L'Abbé-Patureau,Le Mans,Vosges,France,,62.7298,-27.7934,+10:00,"Eastern Australia, Guam, Vladivostok"
+45915ddf-a066-4f1a-bd75-2654c7f77243,5012,Rua Dois,Garanhuns,Paraíba,Brazil,,82.4860,161.5739,-8:00,Pacific Time (US & Canada)
+054953f9-6afd-43e8-9ee3-ecc1fb3c3898,4628,Calle de La Democracia,La Coruña,Castilla y León,Spain,,42.2104,11.1922,+11:00,"Magadan, Solomon Islands, New Caledonia"
+d92f06e8-b53f-4b9e-8fde-2afea8defd3d,7043,Periférico Morelos,La Mira,Puebla,Mexico,,21.5633,9.8328,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+94257a8a-b2ab-4f94-80a9-d0a40251cba1,8100,Dogwood Ave,Queanbeyan,Victoria,Australia,,13.4004,147.3580,+2:00,"Kaliningrad, South Africa"
