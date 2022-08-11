@@ -40,17 +40,17 @@ And run
 	* Sets up environment and create csv files 
   
 * get_data_and_transform_script.py
-	  * collect data from [API Endpoint](https://randomuser.me/api/?results=500), create table and save them as csv files
+	* collect data from [API Endpoint](https://randomuser.me/api/?results=500), create table and save them as csv files
 * ERD.pdf
-	  * ERD (Entity Relationship Diagram)
+	* ERD (Entity Relationship Diagram)
 * Data folder
-	  * files containing table data 
+	* files containing table data 
 
 ## Production ETL Process
-![Production ELT] (link)
+![Production ELT] (Production_Elt.png)
 
 * Tests to put in place?
-        * Request fail and request status test and logging
+	* Request fail and request status test and logging
         * Unique (Primary key) test to make sure when adding the raw data it doesn't duplicate primary keys
         * Not null test for columns like login_username and password
         * Data integrity and anomalies test
