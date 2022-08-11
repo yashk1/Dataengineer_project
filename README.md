@@ -47,12 +47,11 @@ And run
 	* files containing table data 
 
 ## Production ETL Process
-![Production ELT] (Production_Elt.png)
+![Production ELT] (https://github.com/yashk1/branch_data_engineering_th/blob/e46bd9f07f3e5980c53a8ba72f79feee9a436939/Production_Elt.png)
 
 * Tests to put in place?
 	* Request fail and request status test and logging
-        * Unique (Primary key) test to make sure when adding the raw data it doesn't duplicate primary keys
-        * Not null test for columns like login_username and password
-        * Data integrity and anomalies test
+	* Unique (Primary key) test to make sure when adding the raw data it doesn't duplicate primary keys
+	* Not null test for columns like login_username and password* Data integrity and anomalies test
 
 
